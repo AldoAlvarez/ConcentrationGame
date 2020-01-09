@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 7f5cf9837e116d241a7b73af968f2d64
+timeCreated: 1577585222
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CardAtlas_0
+    21300002: CardAtlas_1
+    21300004: CardAtlas_2
+    21300006: CardAtlas_3
+    21300008: CardAtlas_4
+    21300010: CardAtlas_5
+    21300012: CardAtlas_6
+    21300014: CardAtlas_7
+    21300016: CardAtlas_8
+    21300018: CardAtlas_9
+    21300020: CardAtlas_10
+    21300022: CardAtlas_11
+    21300024: CardAtlas_12
+    21300026: CardAtlas_13
+    21300028: CardAtlas_14
+    21300030: CardAtlas_15
+    21300032: CardAtlas_16
+    21300034: CardAtlas_17
+    21300036: CardAtlas_18
+    21300038: CardAtlas_19
+    21300040: CardAtlas_20
+    21300042: CardAtlas_21
+    21300044: CardAtlas_22
+    21300046: CardAtlas_23
+    21300048: CardAtlas_24
+    21300050: CardAtlas_25
+    21300052: CardAtlas_26
+    21300054: CardAtlas_27
+    21300056: CardAtlas_28
+    21300058: CardAtlas_29
+    21300060: CardAtlas_30
+    21300062: CardAtlas_31
+    21300064: CardAtlas_32
+    21300066: CardAtlas_33
+    21300068: CardAtlas_34
+    21300070: CardAtlas_35
+    21300072: CardAtlas_36
+    21300074: CardAtlas_37
+    21300076: CardAtlas_38
+    21300078: CardAtlas_39
+    21300080: CardAtlas_40
+    21300082: CardAtlas_41
+    21300084: CardAtlas_42
+    21300086: CardAtlas_43
+    21300088: CardAtlas_44
+    21300090: CardAtlas_45
+    21300092: CardAtlas_46
+    21300094: CardAtlas_47
+    21300096: CardAtlas_48
+    21300098: CardAtlas_49
+    21300100: CardAtlas_50
+    21300102: CardAtlas_51
+    21300104: CardAtlas_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CardAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 471
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 471
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 471
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 471
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 354
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 354
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 354
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 354
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 354
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 354
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 237
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 237
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 237
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 237
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 237
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 236
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 120
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 120
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 120
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 120
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CardAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
